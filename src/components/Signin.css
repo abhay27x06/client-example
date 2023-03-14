@@ -1,0 +1,45 @@
+.con {
+    width: 100vw;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form {
+    width: 30vw;
+    height: 70vh;
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px black;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+
+.btndiv {
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.input {
+    outline: none;
+    border: none;
+    width: 17vw;
+    text-align: center;
+    border-bottom: 1px solid black;
+}
+
+.btn {
+    border: none;
+    outline: none;
+    background-color: #565657c4;
+    color: white;
+    padding: 10px 20px;
+}
+.btn:hover {
+    color: white;
+    background-color: #444444eb;
+}

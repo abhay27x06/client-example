@@ -1,0 +1,29 @@
+.navbar{
+    background-color: #565657c4 !important;
+    box-shadow: 1px 1px 4px black !important;
+}
+.navbar:hover{
+    background-color: #444444eb !important;
+}
+.nav-link{
+    text-decoration: none;
+    text-shadow: none !important;
+    color: white!important;
+}
+.nav-link:hover{
+    color: white !important;
+    text-shadow: 1px 1px 5px black !important;
+}
+.logo-text{
+    font-size: 2vw;
+    text-decoration: none;
+    color: rgb(249, 246, 246);
+    text-shadow: 1px 1px 5px black;
+}
+.logo-text:hover{
+    color: rgb(249, 246, 246);
+}
+.active{
+    color: white !important;
+    text-shadow: 1px 1px 3px black !important;
+}
